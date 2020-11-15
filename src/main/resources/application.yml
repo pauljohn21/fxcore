@@ -1,0 +1,5 @@
+mt4:
+  manager:
+    api: "classpath:static/dll/mtmanapi64.dll"
+    dll: "classpath:static/dll/Basic_MT4Wrapper.dll"
+    ip: "18.166.60.218:2004"
