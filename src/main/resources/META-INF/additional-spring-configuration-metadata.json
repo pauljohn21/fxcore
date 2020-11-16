@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "mt4.manager.api",
+      "type": "java.lang.String",
+      "description": "Description for mt4.manager.api."
+  }
+] }
